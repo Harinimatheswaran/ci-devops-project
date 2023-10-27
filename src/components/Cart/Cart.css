@@ -1,0 +1,28 @@
+.cart{
+    background-color: rgba(255, 153, 0, 0.30);
+    height: 944px;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+}
+
+.cart h5 {
+    text-align: center;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.btn-clear {
+    width: 232px;
+    margin-bottom: 16px;
+    background-color: red;
+    color: white;
+}
+
+.btn-order {
+    width: 232px;
+    background-color: #FF9900;
+    color: white;
+}
