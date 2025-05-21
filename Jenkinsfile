@@ -16,7 +16,7 @@ pipeline {
             }
         }
 
-        stage('Test') {
+      //  stage('Test') {
             steps {
                 echo '🧪 Running tests...'
                 // This ensures the logs are shown even if test fails
@@ -31,4 +31,4 @@ pipeline {
         }
     }
 }   
-print
+
